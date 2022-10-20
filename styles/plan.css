@@ -58,6 +58,61 @@ a {
 
  /* utils end*/
  /* navbar */
+ #main-header{
+    width: 100%;
 
- 
+ }
+ #main-header nav{
+    height:15vh ;
+ }
+.logo img{
+height: 26px;
+width: 236px;
+
+}
+#main-headerul li {
+    gap: 2rem;
+}
+.nav-li{
+   padding-left: 33px;
+   font-size: 12px;
+}
+.nav-li a{
+    color: #83888F;
+
+}
  /* navbar end */
+ /* #creat-plan */
+ #creat-plan{
+    background-image: url(../Images/planimg/Bitmap.png);
+ height: 450px;
+ background-size: cover;
+ border-radius: 10px;
+}
+.creathp{
+margin-left: 86px;
+width: 485px;
+
+}
+.creath{
+    font-size: 72px;
+    font-weight: 900;
+    color: #fff;
+    margin-bottom: 32px;
+}
+.creatp{
+    font-size: 16px;
+    font-weight: 400;
+    color: #83888F;
+    padding-right: 80px;
+    line-height: 26px;
+}
+ /* #creat-plan */
+ /* #bitmap */
+ #bitmap{
+height: 653px;
+border-radius: 5px;
+background-image: url(../Images/planimg/Bitmapimg.png);
+background-size: cover;
+ }
+ /* #bitmap */
