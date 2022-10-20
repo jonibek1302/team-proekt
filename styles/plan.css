@@ -84,7 +84,7 @@ width: 236px;
  /* navbar end */
  /* #creat-plan */
  #creat-plan{
-    background-image: url(../Images/planimg/Bitmap.png);
+    background-image: url(../Images/planimg/creatimg.png);
  height: 450px;
  background-size: cover;
  border-radius: 10px;
@@ -113,6 +113,10 @@ width: 485px;
 height: 653px;
 border-radius: 5px;
 background-image: url(../Images/planimg/Bitmapimg.png);
-background-size: cover;
+background-size: cover;margin-top: 140px;
+ }
+ .bitmap-card{
+    margin-left: 85px;
+    margin-top: 200px;
  }
  /* #bitmap */
