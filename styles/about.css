@@ -1,5 +1,5 @@
 .container {
-    width: 1280px;
+    width: 1200px;
     margin: 0px auto;
 }
 .child2 {
@@ -44,8 +44,8 @@ color: #83888F;
 }
 
 .container2 {
-    margin-top: 45px;
-    width: 1280px;
+    
+    width: 1200px;
     height: 450px;
     margin:0 auto;
     background-image: url(/Images/aboutimg/abduvohob\(1\).svg);
