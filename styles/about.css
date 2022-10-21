@@ -118,7 +118,6 @@ transform: translate(125px,200px);
 transform: translate(125px,232px);
 }
 /*footer end */
-<<<<<<< HEAD
 /*start */
 .container2 {
   width: 1280px;
@@ -160,11 +159,72 @@ margin-left:165px ;
 .container3 {
   Width:1045px;
 Height:262px;
+margin: 0 auto;
 }
-=======
-
-
-
+.child11 {
+Width:35.28px;
+Height:49.07px;
+margin-top: 72px;
+}
+.child12 {
+  height: 36px;
+width: 272px;
+font-size: 32px;
+color: #333D4B;
+margin-top: 46px;
+}
+.child13{
+font-size: 1rem;
+color: #333D4B;
+height: 107px;
+width: 285px;
+margin-top: 24px;
+}
+.child14{
+  Width:35.28px;
+Height:49.07px;
+margin-top: 72px;
+}
+.child15 {
+    height: 36px;
+width: 255px;
+font-size: 32px;
+color: #333D4B;
+margin-top: 46px;
+}
+.child16{
+  font-size: 1rem;
+color: #333D4B;
+height: 107px;
+width: 285px;
+margin-top: 24px;
+}
+.child17 {
+  margin-left: 125px;
+}
+.child18 {
+  margin-left: 125px;
+}
+.child19 {
+    Width:35.28px;
+Height:49.07px;
+margin-top: 72px;
+}
+.child20 {
+      height: 36px;
+width: 255px;
+font-size: 32px;
+color: #333D4B;
+margin-top: 46px;
+}
+.child21 {
+   font-size: 1rem;
+color: #333D4B;
+height: 107px;
+width: 285px;
+margin-top: 24px;
+}
+/*center*/
 footer {
   padding-left: 85px;
   padding-right: 49px;
@@ -173,6 +233,7 @@ footer {
   background-color: #2c343e;
   display: flex;
   align-items: center;
+  margin-top: 168px;
 }
 .list {
   display: flex;
@@ -205,4 +266,4 @@ footer {
 .tarmoq img:hover{
  background: #FDD6BA;
 }
->>>>>>> 56118ab5886e31fed98fd1cbc35a98d8a7c09f9a
+
