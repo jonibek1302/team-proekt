@@ -12,6 +12,7 @@
 .child3 {
     display: flex;
     gap: 35px;
+    background-size: cover;
 }
 .child4 {
 width: 34px ;
